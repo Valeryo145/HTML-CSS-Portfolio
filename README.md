@@ -1,16 +1,18 @@
 # HTML-CSS-Portfolio
-<<<<<<< HEAD
-Web craeted to represent a portfolio of a potenrial employee. This will show work, exaples of solutions and contact info.
 
-02 Advanced CSS: Portfolio
+Web craeted to represent a portfolio of a potential employee. This will show work, examples of solutions and contact info.
+
+# Advanced CSS: Portfolio
+
 User Story
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+
 Acceptance Criteria
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
 
-GIVEN I need to sample a potential employee's previous work
+# GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
 WHEN I click one of the links in the navigation
@@ -23,12 +25,15 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
-Mock-Up
 
-The following animation shows the web application's appearance and functionality:
+# Mock-Up
 
-WebAppereance
+![02-advanced-css-homework-demo](https://user-images.githubusercontent.com/110436164/187013421-dbb4c1cb-0da4-43bf-a108-47cd07cae758.gif)
 
-Deployed app
+# ScreenShot
+
+![Valeryo Haimov - Google Chrome 8_26_2022 9_49_10 PM](https://user-images.githubusercontent.com/110436164/187013390-055aa403-8d42-4d10-8243-db8eb72b97bd.png)
+
+## Deployed app
 By clicking on the following link, you can access the deployed app:
 
