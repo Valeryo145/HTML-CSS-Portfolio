@@ -35,5 +35,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ![Valeryo Haimov - Google Chrome 8_26_2022 9_49_10 PM](https://user-images.githubusercontent.com/110436164/187013390-055aa403-8d42-4d10-8243-db8eb72b97bd.png)
 
 ## Deployed app
-By clicking on the following link, you can access the deployed app:
+By clicking on the following link, you can access the deployed app: https://valeryo145.github.io/HTML-CSS-Portfolio/
 
