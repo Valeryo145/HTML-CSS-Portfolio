@@ -1,4 +1,5 @@
 # HTML-CSS-Portfolio
+<<<<<<< HEAD
 Web craeted to represent a portfolio of a potenrial employee. This will show work, exaples of solutions and contact info.
 
 02 Advanced CSS: Portfolio
@@ -30,4 +31,4 @@ WebAppereance
 
 Deployed app
 By clicking on the following link, you can access the deployed app:
-By clicking on the following link, you can access the repo on GitHub:
+
