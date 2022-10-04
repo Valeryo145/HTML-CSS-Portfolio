@@ -31,13 +31,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ![02-advanced-css-homework-demo](https://user-images.githubusercontent.com/110436164/187013421-dbb4c1cb-0da4-43bf-a108-47cd07cae758.gif)
 
 # ScreenShot
-<<<<<<< HEAD
-=======
 
 ![Valeryo Haimov - Google Chrome 8_26_2022 9_49_10 PM](https://user-images.githubusercontent.com/110436164/187013390-055aa403-8d42-4d10-8243-db8eb72b97bd.png)
 
 ## Deployed app
 By clicking on the following link, you can access the deployed app: https://valeryo145.github.io/HTML-CSS-Portfolio/
->>>>>>> cb0d8fce3e1f708d25957adfedbe6ba5d12a5bde
-
-![Valeryo Haimov - Google Chrome 8_26_2022 9_49_10 PM](https://user-images.githubusercontent.com/110436164/187013390-055aa403-8d42-4d10-8243-db8eb72b97bd.png)
