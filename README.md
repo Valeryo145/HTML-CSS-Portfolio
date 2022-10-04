@@ -1,44 +1,35 @@
-# JS-Password-Generator
+# HTML-CSS-Portfolio
 
-This JavaScript Challenge is made to create an application that an employee can use to generate a random password based on criteria they've selected. 
-This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
+Web craeted to represent a portfolio of a potential employee. This will show work, examples of solutions and contact info.
 
-## User-Story
+# Advanced CSS: Portfolio
 
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+User Story
+AS AN employer
+I WANT to view a potential employee's deployed portfolio of work samples
+SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
-## Acceptance-Criteria
+Acceptance Criteria
+Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
 
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page.
+# GIVEN I need to sample a potential employee's previous work
+WHEN I load their portfolio
+THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+WHEN I click one of the links in the navigation
+THEN the UI scrolls to the corresponding section
+WHEN I click on the link to the section about their work
+THEN the UI scrolls to a section with titled images of the developer's applications
+WHEN I am presented with the developer's first application
+THEN that application's image should be larger in size than the others
+WHEN I click on the images of the applications
+THEN I am taken to that deployed application
+WHEN I resize the page or view the site on various screens and devices
+THEN I am presented with a responsive layout that adapts to my viewport
 
-One of the criteria to be used in the app are special characters which were found here- https://owasp.org/www-community/password-special-characters
+# Mock-Up
 
-## A screenshot of the deployed password generator.
+![02-advanced-css-homework-demo](https://user-images.githubusercontent.com/110436164/187013421-dbb4c1cb-0da4-43bf-a108-47cd07cae758.gif)
 
-![Screenshot Password Generator](https://user-images.githubusercontent.com/110436164/188050642-4788b519-687f-4813-bb46-f48e28bd7364.png)
+# ScreenShot
 
-## DeployedApp
-
-https://valeryo145.github.io/P-Generator-/
-
-## Useful Sources 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#difference_between_statements_and_declarations
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN
+![Valeryo Haimov - Google Chrome 8_26_2022 9_49_10 PM](https://user-images.githubusercontent.com/110436164/187013390-055aa403-8d42-4d10-8243-db8eb72b97bd.png)
